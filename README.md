@@ -1,7 +1,7 @@
 # IBM-data-analytics-study-log
 Study log for the IBM Data Analytics with Excel and R Professional Certificate
 
------
+---
 
 ## Starting Point
 I have no prior experience with coding, data tools, or analytics. I want to build strong foundational skills in:
@@ -13,7 +13,7 @@ I have no prior experience with coding, data tools, or analytics. I want to buil
 
 I will use this study log to stay organized and share my learning with future employers and mentors.
 
------
+---
 
 ## Courses
 | # | Title                                                      | Status      |
@@ -28,16 +28,22 @@ I will use this study log to stay organized and share my learning with future em
 | 8 | Data Visualization with R                                  | Not Started |
 | 9 | Data Science with R - Capstone Project                     | Not Started |
 
------
+---
 
 ## Log Structure
 Each course has a individual folder with files for weekly notes
 
 ---
 
-## Notes to Self
+## Notes
+Initial setup only. Week1 will begin mid-late July
 
------
+---
+
+## Links
+-([IBM Data Analytics Course](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel?))
+
+---
 
 **Last Updated**
 
