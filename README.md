@@ -41,7 +41,7 @@ Initial setup only. Week1 will begin mid-late July
 ---
 
 ## Links
--([IBM Data Analytics Course](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel?))
+-[IBM Data Analytics Course](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel?)
 
 ---
 
